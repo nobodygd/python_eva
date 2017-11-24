@@ -1,0 +1,11 @@
+'''not knowing yet '''
+
+
+names = ['Amy', 'Eric', 'Cathy', 'David', 'Bob']
+for i in range(len(names)):
+    print(names[i], ' ', end='')
+print()
+apple=[1,2]
+for j in range(len(apple)):
+    print(apple[j], ' ', end='')
+print()
