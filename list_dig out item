@@ -1,0 +1,5 @@
+#to dig out every item in a list
+names = ['Amy', 'Eric', 'Cathy', 'David', 'Bob']
+for i in range(len(names)):
+    print(names[i], ' ', end='')
+print()
